@@ -1,4 +1,4 @@
-`package com.thoughtworks.bootcamp;
+package com.thoughtworks.bootcamp;
 
 import com.thoughtworks.bootcamp.pages.HomePage;
 import com.thoughtworks.bootcamp.pages.SearchResults;
